@@ -1,0 +1,3 @@
+# Authorized ADMINISTRATORS from the image README, one username per line.
+# Include the account you are logged in as.
+# Lines starting with # are ignored.

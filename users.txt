@@ -1,0 +1,3 @@
+# Authorized STANDARD users from the image README, one username per line.
+# Administrators go in admins.txt instead (no need to list them twice).
+# Lines starting with # are ignored.
